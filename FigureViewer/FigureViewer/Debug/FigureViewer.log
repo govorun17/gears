@@ -1,0 +1,17 @@
+﻿  FigureViewer.cpp
+d:\projects\c++\кг\figureviewer\figureviewer\batmen.h(18): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+d:\projects\c++\кг\figureviewer\figureviewer\batmen.h(20): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+d:\projects\c++\кг\figureviewer\figureviewer\batmen.h(22): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+d:\projects\c++\кг\figureviewer\figureviewer\batmen.h(24): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+d:\projects\c++\кг\figureviewer\figureviewer\batmen.h(26): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+d:\projects\c++\кг\figureviewer\figureviewer\batmen.h(28): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+d:\projects\c++\кг\figureviewer\figureviewer\batmen.h(30): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+d:\projects\c++\кг\figureviewer\figureviewer\batmen.h(31): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+d:\projects\c++\кг\figureviewer\figureviewer\batmen.h(32): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+d:\projects\c++\кг\figureviewer\figureviewer\batmen.h(33): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+d:\projects\c++\кг\figureviewer\figureviewer\batmen.h(34): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+d:\projects\c++\кг\figureviewer\figureviewer\batmen.h(35): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+d:\projects\c++\кг\figureviewer\figureviewer\batmen.h(36): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+d:\projects\c++\кг\figureviewer\figureviewer\batmen.h(37): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+d:\projects\c++\кг\figureviewer\figureviewer\batmen.h(38): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  FigureViewer.vcxproj -> D:\Projects\c++\КГ\FigureViewer\Debug\FigureViewer.exe
